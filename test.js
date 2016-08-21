@@ -1,4 +1,4 @@
-var steemConnect = require('./lib/steemconnect'),
+var steemConnect = require('./lib/steemauth'),
 	steem = require('steem'),
 	moment = require('moment');
 
