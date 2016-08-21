@@ -1,2 +1,1 @@
-# Steem Auth
-### Under Construction
+Documentation here https://www.npmjs.com/package/steem
