@@ -13,3 +13,6 @@ console.log(isWif);
 
 var toWif = steemAuth.toWif(username, password, 'posting');
 console.log(toWif);
+
+var wifIsValid = steemAuth.wifIsValid(privWif, pubWif);
+console.log(wifIsValid);
