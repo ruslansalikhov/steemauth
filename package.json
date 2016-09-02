@@ -32,6 +32,10 @@
   },
   "contributors": [
     "Fabien (https://github.com/adcpm)",
-    "KaptainKrayola (https://github.com/KaptainKrayola)"
-  ]
+    "KaptainKrayola (https://github.com/KaptainKrayola)",
+    "Nilesh Suthar (https://github.com/nil1511)"
+  ],
+  "devDependencies": {
+    "steem": "^0.3.17"
+  }
 }
