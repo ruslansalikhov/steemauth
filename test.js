@@ -25,6 +25,6 @@ steem.broadcast.accountUpdate(ownerWif, username, undefined, undefined, undefine
 	console.log(err, result);
 });
 
-steem.broadcast.vote(pubWif, username, 'metrox', 'do-you-need-to-wear-a-bikini-to-swim-with-the-whales', 10000, function(err, result) {
+steem.broadcast.vote(privWif, username, 'metrox', 'do-you-need-to-wear-a-bikini-to-swim-with-the-whales', 10000, function(err, result) {
 	console.log(err, result);
 });
